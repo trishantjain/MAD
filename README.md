@@ -1,9 +1,9 @@
 # 📱 Profile Card App
 
+<div style="display: flex; justify-content: space-between;">
 <img src="https://github.com/trishantjain/MAD/blob/master/Demo1.png" alt="Main Screen" width="300"/>
-
 <img src="https://github.com/trishantjain/MAD/blob/master/Demo2.png" alt="Main Screen" width="300"/>
-
+</div>
 
 
 
