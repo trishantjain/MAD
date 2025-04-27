@@ -1,8 +1,8 @@
 # 📱 Profile Card App
 
-![Demo1](https://github.com/user-attachments/assets/d0147f53-e660-4360-999a-6a6967ac2a86)
+<img src="https://github.com/trishantjain/MAD/edit/master/Demo1" alt="Main Screen" width="300"/>
 
-![Demo2](https://github.com/user-attachments/assets/75cdfbda-7203-4da3-9cb7-0bda1885294d)
+<img src="https://github.com/trishantjain/MAD/edit/master/Demo2" alt="Main Screen" width="300"/>
 
 
 
